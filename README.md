@@ -1,0 +1,5 @@
+# tutorial_bibliometrix
+
+A [workflowr][] project.
+
+[workflowr]: https://github.com/jdblischak/workflowr
