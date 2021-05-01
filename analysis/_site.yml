@@ -1,7 +1,7 @@
-name: "tutorial_bibliometrix"
+name: tutorial_bibliometrix
 output_dir: ../docs
 navbar:
-  title: "tutorial_bibliometrix"
+  title: tutorial_bibliometrix
   left:
   - text: Home
     href: index.html
@@ -9,6 +9,10 @@ navbar:
     href: about.html
   - text: License
     href: license.html
+  right:
+  - icon: fa-github
+    text: Source code
+    href: https://github.com/elrobin/tutorial_bibliometrix
 output:
   workflowr::wflow_html:
     toc: yes
